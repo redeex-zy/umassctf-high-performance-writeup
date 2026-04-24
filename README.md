@@ -1,6 +1,9 @@
 # High Performance — Writeup
 
-Some OSINT challenges are hard because the rabbit hole is deep. This one was not deep at all. It was hard in a more realistic way: it was very easy to get confident too early.
+UMassCTF 2026 — OSINT Medium
+
+
+Some OSINT challenges are hard because the rabbit hole is deep. This one was not deep, but it was tricky in a more realistic way: it was very easy to get confident too early.
 
 The challenge prompt was:
 
